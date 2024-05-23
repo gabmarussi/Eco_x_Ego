@@ -4,7 +4,7 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Nome do Projeto
+# Eco x Ego
 
 ## Grupo_3_Eco_Go
 
@@ -12,51 +12,74 @@
 
 ## Professores Orientadores: Dr. Victor Von Doom
 
-## Descrição
+## Descrição:
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
+<img src="https://github.com/2024-1-MCC1/Projeto3/blob/3f6e8a9c3dd0260ec222b6e1b066bcf6d95ece8b/Imagens/Play.png" alt="Eco x Ego" border="0">
+  Game Design by <a href= "www.linkedin.com/in/gabrielmarussi">Gabriel Marussi</a> License CC BY-SA 3.0
 </p>
 
-
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
+Meu projeto é uma colaboração com a FECAP, retratando-se como um jogo educativo desenvolvido na plataforma Unity utilizando a linguagem C#. Ele tem como objetivo fundamental promover uma mudança de mentalidade alinhada aos Objetivos de Desenvolvimento Sustentável (ODS) da ONU, com um foco a mais nos objetivos 13, 14 e 15.
 <br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
+Buscamos mostrar uma experiência envolvente, inspirando os jogadores a considerarem questões ambientais mais importantes, adotando comportamento e prática mais sustentável e responsável. Através da narrativa estimulante e interações, meu projeto contribui para essa conscientização em prol de um futuro mais justo e sustentável.
 <br><br>
 
-## 🛠 Estrutura de pastas
+## 🛠 Estrutura de pastas:
 
 -Raiz<br>
 |<br>
-|-->documentos<br>
-  &emsp;|-->antigos<br>
-  &emsp;|Documentação.docx<br>
-|-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
-|-->imagens<br>
-|-->src<br>
+|-->Documentos<br>
+  &emsp;|Placeholder.txt<br>
+|-->Imagens<br>
+  &emsp;|Play.png<br>
+|-->Src<br>
   &emsp;|-->Backend<br>
   &emsp;|-->Frontend<br>
-|readme.md<br>
-
-A pasta raiz contem dois arquivos que devem ser alterados:
-
-<b>README.MD</b>: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
-
-Há também 4 pastas que seguem da seguinte forma:
-
-<b>documentos</b>: Toda a documentação estará nesta pasta.
-
-<b>executáveis</b>: Binários e executáveis do projeto devem estar nesta pasta.
-
-<b>imagens</b>: Imagens do sistema
-
-<b>src</b>: Pasta que contém o código fonte.
+  &emsp; &emsp;|Assets<br>
+  &emsp; &emsp; &emsp;|Animações<br>
+  &emsp; &emsp; &emsp;|Cenas<br>
+  &emsp; &emsp; &emsp;|Design<br>
+  &emsp; &emsp; &emsp;|Diálogo<br>
+  &emsp; &emsp; &emsp;|Materiais<br> 
+  &emsp; &emsp; &emsp; &emsp;Fogo<br>
+  &emsp; &emsp; &emsp; &emsp;Poço<br>
+  &emsp; &emsp; &emsp; &emsp;Prefab<br>
+  &emsp; &emsp; &emsp; &emsp;TextMesh Pro<br>
+  &emsp; &emsp; &emsp; &emsp;Totems<br>
+  &emsp; &emsp; &emsp; &emsp;Brilho.mat<br>
+  &emsp; &emsp; &emsp;|Menu<br>
+  &emsp; &emsp; &emsp; &emsp;|Menu.unity<br>
+  &emsp; &emsp; &emsp; &emsp;|ForestDestroyed.unity<br>
+  &emsp; &emsp; &emsp; &emsp;|Forest.unity<br>
+  &emsp; &emsp; &emsp; &emsp;|End.unity<br>
+  &emsp; &emsp; &emsp;|Scripts<br>
+  &emsp; &emsp; &emsp;|Resources<br>
+  &emsp; &emsp; &emsp; &emsp;|BillingMode.json<br>
+  &emsp; &emsp; &emsp; &emsp;|Diálogo<br>
+  &emsp; &emsp; &emsp; &emsp; &emsp;|Collectible.cs<br>
+  &emsp; &emsp; &emsp; &emsp; &emsp;|CollectionManager.cs<br>
+  &emsp; &emsp; &emsp; &emsp; &emsp;|ConversationStart.cs<br>
+  &emsp; &emsp; &emsp; &emsp;|Interações<br>
+  &emsp; &emsp; &emsp; &emsp; &emsp;|BackgroundMusic.cs<br>
+  &emsp; &emsp; &emsp; &emsp; &emsp;|LevelLoader.cs<br>
+  &emsp; &emsp; &emsp; &emsp; &emsp;|StartFire.cs<br>
+  &emsp; &emsp; &emsp; &emsp; &emsp;|Visibility.cs<br>
+  &emsp; &emsp; &emsp; &emsp;|Menu<br>
+  &emsp; &emsp; &emsp; &emsp; &emsp;|Menu.cs<br>
+  &emsp; &emsp; &emsp; &emsp; &emsp;|PauseMenu.cs<br> 
+  &emsp; &emsp; &emsp; &emsp; &emsp;|ButtonPause.cs<br>
+  &emsp; &emsp; &emsp; &emsp; &emsp;|End.cs<br>
+  &emsp; &emsp; &emsp; &emsp;|Movimento<br>
+  &emsp; &emsp; &emsp; &emsp; &emsp;|MouseAround.cs<br>
+  &emsp; &emsp; &emsp; &emsp; &emsp;|Movement.cs<br>
+  &emsp; &emsp;|Packages<br>
+  &emsp; &emsp;|ProjectSettings<br>
+  &emsp; &emsp;|Temp<br>
+  &emsp; &emsp;|UserSettings<br>
+  &emsp; &emsp;|obj/Debug<br>
+  &emsp; &emsp;|.vsconfig<br>
+|.gitignore<br>
+|README.md<br>
 
 ## 🛠 Instalação
 
