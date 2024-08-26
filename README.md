@@ -49,8 +49,8 @@ Buscamos mostrar uma experiência envolvente, inspirando os jogadores a consider
 
 <b>Windows:</b>
 
-Não há instalação necessárias, apenas baixe os arquivos e você conseguirá jogar. Encontre a pasta de "<a href= "https://github.com/2024-1-MCC1/Projeto3/tree/main/Execut%C3%A1vel](https://github.com/gabmarussi/Eco_x_Ego/tree/main/Eco%20x%20Ego%20(Final)/Executável">Executável</a>" e baixe-o.<br>
-Após isso, execute-o arquivo "<a href="https://github.com/2024-1-MCC1/Projeto3/blob/main/Execut%C3%A1vel/Eco%20x%20Ego.exe](https://github.com/gabmarussi/Eco_x_Ego/blob/main/Eco%20x%20Ego%20(Final)/Execut%C3%A1vel/Eco%20x%20Ego.exe">Eco x Ego.exe</a>" como qualquer outro programa, assim, conseguindo jogar.
+Não há instalação necessárias, apenas baixe os arquivos e você conseguirá jogar. Encontre a pasta de "<a href= "https://github.com/gabmarussi/Eco_x_Ego/tree/main/Eco%20x%20Ego%20(Final)/Executável">Executável</a>" e baixe-o.<br>
+Após isso, execute-o arquivo "<a href="https://github.com/gabmarussi/Eco_x_Ego/blob/main/Eco%20x%20Ego%20(Final)/Execut%C3%A1vel/Eco%20x%20Ego.exe">Eco x Ego.exe</a>" como qualquer outro programa, assim, conseguindo jogar.
 
 ## 💻 Configuração para Desenvolvimento
 
